@@ -1,0 +1,1 @@
+Using 25000 images from the Optical Gravitational Lensing Experiment (OGLE; https://ogle.astrouw.edu.pl/), I created dm-dt image arrays (described in Mahabal 2017, https://arxiv.org/abs/1709.06257) used to train and test a variety of CNN architectures, achieving >97% accuracy.
